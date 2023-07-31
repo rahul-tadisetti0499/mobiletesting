@@ -14,7 +14,6 @@
         <item_view/>
         <name>Compensation change </name>
         <override_context_with_data_item>false</override_context_with_data_item>
-        <parameter_screen/>
         <roles_override/>
         <segments_height>medium</segments_height>
         <segments_min_width>medium</segments_min_width>
@@ -32,7 +31,7 @@
         <sys_updated_on>2023-07-06 09:31:50</sys_updated_on>
         <table/>
         <use_view_config>true</use_view_config>
-        <view_config display_value="Compensation change config">2760aa15c35fa510fc27e92bb00131cf</view_config>
+        <view_config display_value="Compensation change record screen card">2760aa15c35fa510fc27e92bb00131cf</view_config>
     </sys_sg_form_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=b360aa15c35fa510fc27e92bb00131d2"/>
 </record_update>

@@ -2,7 +2,6 @@
     <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
         <empty_state/>
         <interleave_order_direction>asc</interleave_order_direction>
-        <max_offline_rows>1000</max_offline_rows>
         <name>Job requisition approval screen segment</name>
         <order>10</order>
         <screen display_value="Job requisition approval list screen">056c1cadc3efa510fc27e92bb00131b2</screen>

@@ -4,7 +4,6 @@
         <button display_value="Compensation change Workday Approve Function">f7081721c35fe510fc27e92bb001315b</button>
         <color_theme>positive</color_theme>
         <description> Compensation change Approve function instance</description>
-        <disable_offline>false</disable_offline>
         <field_name/>
         <icon/>
         <label>Approve</label>

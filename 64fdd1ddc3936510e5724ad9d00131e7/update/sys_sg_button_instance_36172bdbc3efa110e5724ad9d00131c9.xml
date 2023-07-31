@@ -4,7 +4,6 @@
         <button display_value="Termination approve function ">1ae7a31fc3efa110e5724ad9d001315f</button>
         <color_theme>positive</color_theme>
         <description>Termination approval approve function instance</description>
-        <disable_offline>false</disable_offline>
         <field_name/>
         <icon/>
         <label>Approve</label>

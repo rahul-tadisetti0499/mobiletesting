@@ -4,7 +4,6 @@
         <button display_value="Compensation change complete in workday">e4040c20c3947d50e5724ad9d001314e</button>
         <color_theme>primary</color_theme>
         <description>Compensation change approval complete in workday function instance</description>
-        <disable_offline>false</disable_offline>
         <field_name/>
         <icon/>
         <label>Complete in Workday</label>

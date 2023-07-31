@@ -4,7 +4,6 @@
         <button display_value="Termination Reject function">0a6ba0efc3a3e110e5724ad9d001319b</button>
         <color_theme>destructive</color_theme>
         <description>Termination reject function instance</description>
-        <disable_offline>false</disable_offline>
         <field_name/>
         <icon/>
         <label>Reject</label>

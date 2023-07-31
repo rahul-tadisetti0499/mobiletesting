@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot_attribute">
     <sys_sg_view_template_slot_attribute action="INSERT_OR_UPDATE">
         <description>requested_for_Typography</description>
-        <name display_value="Typography">30871ab9b701301096aa25efce11a925</name>
+        <name display_value="">30871ab9b701301096aa25efce11a925</name>
         <sys_class_name>sys_sg_view_template_slot_attribute</sys_class_name>
         <sys_created_by>chan.s</sys_created_by>
         <sys_created_on>2023-07-14 05:58:07</sys_created_on>
@@ -16,7 +16,7 @@
         <sys_updated_on>2023-07-14 10:39:40</sys_updated_on>
         <translated_value/>
         <value>Subhead 1</value>
-        <view_template_slot display_value="requested_for">93a6805dc3ccf150e5724ad9d0013116</view_template_slot>
+        <view_template_slot display_value="">93a6805dc3ccf150e5724ad9d0013116</view_template_slot>
     </sys_sg_view_template_slot_attribute>
     <sys_translated_text action="delete_multiple" query="documentkey=53a6805dc3ccf150e5724ad9d0013118"/>
 </record_update>

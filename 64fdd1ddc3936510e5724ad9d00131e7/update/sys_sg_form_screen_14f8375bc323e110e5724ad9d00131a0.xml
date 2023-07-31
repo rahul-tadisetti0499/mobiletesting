@@ -14,7 +14,6 @@
         <item_view/>
         <name>Leave of absence approval</name>
         <override_context_with_data_item>true</override_context_with_data_item>
-        <parameter_screen/>
         <roles_override/>
         <segments_height>medium</segments_height>
         <segments_min_width>medium</segments_min_width>
@@ -32,7 +31,7 @@
         <sys_updated_on>2023-06-26 10:08:47</sys_updated_on>
         <table/>
         <use_view_config>true</use_view_config>
-        <view_config display_value="Leave of absence  Record ScreenCard">14f8375bc323e110e5724ad9d001319d</view_config>
+        <view_config display_value="Leave of absence  record screen card">14f8375bc323e110e5724ad9d001319d</view_config>
     </sys_sg_form_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=14f8375bc323e110e5724ad9d00131a0"/>
 </record_update>

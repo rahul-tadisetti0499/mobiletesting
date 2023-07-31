@@ -10,7 +10,6 @@
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="MS icon-File-Solid">efc0ce0673b52010a59b4c5353f6a766</icon>
         <name>Attachments</name>
-        <parameter_screen/>
         <roles_override/>
         <sys_class_name>sys_sg_list_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>

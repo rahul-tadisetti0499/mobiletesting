@@ -4,7 +4,6 @@
         <button display_value="Job change approval  Approve Request">436aabedc35fe510fc27e92bb00131b5</button>
         <color_theme>positive</color_theme>
         <description>Job change approval Approve function instance</description>
-        <disable_offline>false</disable_offline>
         <field_name/>
         <icon/>
         <label>Approve</label>

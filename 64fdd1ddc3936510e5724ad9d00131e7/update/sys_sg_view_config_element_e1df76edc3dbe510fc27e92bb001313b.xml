@@ -13,7 +13,7 @@
         <sys_update_name>sys_sg_view_config_element_e1df76edc3dbe510fc27e92bb001313b</sys_update_name>
         <sys_updated_by>abhi_user</sys_updated_by>
         <sys_updated_on>2023-06-08 07:18:28</sys_updated_on>
-        <view_config display_value="Job config">08955295c3576510e5724ad9d00131a1</view_config>
-        <view_template_slot display_value="text_03">cb6eea51c39fa510fc27e92bb00131ef</view_template_slot>
+        <view_config display_value="Job change list screen card">08955295c3576510e5724ad9d00131a1</view_config>
+        <view_template_slot display_value="">cb6eea51c39fa510fc27e92bb00131ef</view_template_slot>
     </sys_sg_view_config_element>
 </record_update>

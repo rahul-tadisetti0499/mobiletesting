@@ -2,7 +2,6 @@
     <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
         <empty_state/>
         <interleave_order_direction>asc</interleave_order_direction>
-        <max_offline_rows>1000</max_offline_rows>
         <name>Spend authorization approval screen segment</name>
         <order>10</order>
         <screen display_value="Spend authorization approval">43d21494c32fa110e5724ad9d0013131</screen>

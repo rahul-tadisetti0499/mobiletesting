@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="Navigate to Workday">56c94b36c3dba110fc27e92bb001315a</button>
+        <button display_value="Time off approval navigate to workday">56c94b36c3dba110fc27e92bb001315a</button>
         <color_theme/>
         <description>View in Workday (Time off Approval)</description>
-        <disable_offline>false</disable_offline>
         <field_name/>
         <icon display_value="MS icon-Web-Link-Solid">952ff10673b52010a59b4c5353f6a772</icon>
         <label>View in Workday</label>

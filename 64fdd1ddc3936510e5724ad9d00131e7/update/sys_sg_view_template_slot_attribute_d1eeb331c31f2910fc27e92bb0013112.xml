@@ -16,7 +16,7 @@
         <sys_updated_on>2023-06-09 06:32:27</sys_updated_on>
         <translated_value/>
         <value>#E4E6E7</value>
-        <view_template_slot display_value="button_02">6eed23e1c39fe510fc27e92bb0013185</view_template_slot>
+        <view_template_slot display_value="">6eed23e1c39fe510fc27e92bb0013185</view_template_slot>
     </sys_sg_view_template_slot_attribute>
     <sys_translated_text action="delete_multiple" query="documentkey=d1eeb331c31f2910fc27e92bb0013112"/>
 </record_update>

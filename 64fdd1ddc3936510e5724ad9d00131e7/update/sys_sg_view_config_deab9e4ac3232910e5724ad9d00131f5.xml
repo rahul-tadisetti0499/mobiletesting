@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
     <sys_sg_view_config action="INSERT_OR_UPDATE">
         <active>true</active>
-        <advanced>false</advanced>
         <description>Termination approval card</description>
         <name>Termination approval card</name>
-        <scratchpad_script/>
         <sys_class_name>sys_sg_view_config</sys_class_name>
         <sys_created_by>chan.s</sys_created_by>
         <sys_created_on>2023-06-22 04:13:05</sys_created_on>
@@ -18,7 +16,7 @@
         <sys_updated_by>chan.s</sys_updated_by>
         <sys_updated_on>2023-07-14 13:14:40</sys_updated_on>
         <table>sn_hr_workday_termination_request_todos</table>
-        <template display_value="Workday Approval Card New Template">dde9c9ddc3803550e5724ad9d0013125</template>
+        <template display_value="Workday Approval Card Template">dde9c9ddc3803550e5724ad9d0013125</template>
     </sys_sg_view_config>
     <sys_translated_text action="delete_multiple" query="documentkey=deab9e4ac3232910e5724ad9d00131f5"/>
 </record_update>

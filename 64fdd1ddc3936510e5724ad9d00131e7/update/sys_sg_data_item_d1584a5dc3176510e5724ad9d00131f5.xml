@@ -5,13 +5,9 @@
         <group_by/>
         <instance_relative_url_qc/>
         <name>Timesheet approval data item</name>
-        <offline_query_condition/>
-        <offline_query_condition_script/>
         <query_condition table="sn_hr_workday_todo">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^active=true^todo_state=2^request_typeLIKEEnter Time^ORrequest_typeLIKETimesheet<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
             <item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
             <item display_value="Open" endquery="false" field="todo_state" goto="false" newquery="false" operator="=" or="false" value="2"/>
-            <item endquery="false" field="request_type" goto="false" newquery="false" operator="LIKE" or="false" value="Enter Time"/>
-            <item endquery="false" field="request_type" goto="false" newquery="false" operator="LIKE" or="true" value="Timesheet"/>
         </query_condition>
         <query_condition_script/>
         <sys_class_name>sys_sg_data_item</sys_class_name>

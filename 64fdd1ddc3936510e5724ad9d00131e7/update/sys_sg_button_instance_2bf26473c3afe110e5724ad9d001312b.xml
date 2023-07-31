@@ -4,7 +4,6 @@
         <button display_value="Leave of absence Reject function">2ff26473c3afe110e5724ad9d0013128</button>
         <color_theme>destructive</color_theme>
         <description/>
-        <disable_offline>false</disable_offline>
         <field_name/>
         <icon/>
         <label>Reject</label>

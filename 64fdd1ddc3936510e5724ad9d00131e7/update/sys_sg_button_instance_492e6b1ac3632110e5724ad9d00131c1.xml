@@ -4,7 +4,6 @@
         <button display_value="Termination Approval Navigate to workday">74be635ac3632110e5724ad9d0013182</button>
         <color_theme/>
         <description>Termination approval function instance</description>
-        <disable_offline>false</disable_offline>
         <field_name/>
         <icon display_value="MS icon-Web-Link-Solid">952ff10673b52010a59b4c5353f6a772</icon>
         <label>View in Workday</label>

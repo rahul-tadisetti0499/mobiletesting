@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot_attribute">
     <sys_sg_view_template_slot_attribute action="INSERT_OR_UPDATE">
         <description>text_06_Typography</description>
-        <name display_value="Typography">30871ab9b701301096aa25efce11a925</name>
+        <name display_value="">30871ab9b701301096aa25efce11a925</name>
         <sys_class_name>sys_sg_view_template_slot_attribute</sys_class_name>
         <sys_created_by>Sakshi</sys_created_by>
         <sys_created_on>2023-06-22 10:40:40</sys_created_on>
@@ -16,7 +16,7 @@
         <sys_updated_on>2023-06-22 10:40:40</sys_updated_on>
         <translated_value/>
         <value>Subhead 2</value>
-        <view_template_slot display_value="text_06">e3547f0ac3272910e5724ad9d0013180</view_template_slot>
+        <view_template_slot display_value="">e3547f0ac3272910e5724ad9d0013180</view_template_slot>
     </sys_sg_view_template_slot_attribute>
     <sys_translated_text action="delete_multiple" query="documentkey=f7547f0ac3272910e5724ad9d0013182"/>
 </record_update>

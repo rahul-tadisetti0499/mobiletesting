@@ -13,7 +13,7 @@
         <sys_update_name>sys_sg_view_config_element_67ce2555c384b550fc27e92bb00131af</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-07-14 13:33:03</sys_updated_on>
-        <view_config display_value="Job config">08955295c3576510e5724ad9d00131a1</view_config>
+        <view_config display_value="Job change list screen card">08955295c3576510e5724ad9d00131a1</view_config>
         <view_template_slot display_value="requested_for">65e94dddc3803550e5724ad9d00131de</view_template_slot>
     </sys_sg_view_config_element>
 </record_update>

@@ -4,7 +4,6 @@
         <button display_value="Time off comment function">89694f17c3afa110e5724ad9d00131c6</button>
         <color_theme/>
         <description>Time off approval more details function instance</description>
-        <disable_offline>false</disable_offline>
         <field_name/>
         <icon/>
         <label>comment</label>

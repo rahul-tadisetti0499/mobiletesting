@@ -4,7 +4,6 @@
         <button display_value="Job change approval complete in workday">4293c020c3947d50e5724ad9d0013198</button>
         <color_theme>primary</color_theme>
         <description>Job change approval complete in workday function instance</description>
-        <disable_offline>false</disable_offline>
         <field_name/>
         <icon/>
         <label>Complete in Workday</label>

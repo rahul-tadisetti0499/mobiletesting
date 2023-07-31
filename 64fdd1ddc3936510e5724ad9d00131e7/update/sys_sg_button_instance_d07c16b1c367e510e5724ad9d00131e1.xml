@@ -4,7 +4,6 @@
         <button display_value="Spend authorization Approve Function">736c16b1c367e510e5724ad9d00131db</button>
         <color_theme>positive</color_theme>
         <description>Spend authorization Approve function instance</description>
-        <disable_offline>false</disable_offline>
         <field_name/>
         <icon/>
         <label>Approve</label>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot_attribute">
     <sys_sg_view_template_slot_attribute action="INSERT_OR_UPDATE">
         <description>text_13_Typography</description>
-        <name display_value="Typography">30871ab9b701301096aa25efce11a925</name>
+        <name display_value="">30871ab9b701301096aa25efce11a925</name>
         <sys_class_name>sys_sg_view_template_slot_attribute</sys_class_name>
         <sys_created_by>Sakshi</sys_created_by>
         <sys_created_on>2023-06-22 07:00:22</sys_created_on>

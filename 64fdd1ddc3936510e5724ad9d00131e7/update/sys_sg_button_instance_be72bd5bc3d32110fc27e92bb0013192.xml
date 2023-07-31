@@ -4,7 +4,6 @@
         <button display_value="Time off Approve function ">c804b99bc3d32110fc27e92bb0013116</button>
         <color_theme>positive</color_theme>
         <description>Time off approval Approve function instance</description>
-        <disable_offline>false</disable_offline>
         <field_name/>
         <icon/>
         <label>Approve</label>

@@ -4,7 +4,6 @@
         <button display_value="Time off Reject function">985e29abc39f2110e5724ad9d0013152</button>
         <color_theme>destructive</color_theme>
         <description>Time off Approval Reject Function Instance</description>
-        <disable_offline>false</disable_offline>
         <field_name/>
         <icon/>
         <label>Reject</label>

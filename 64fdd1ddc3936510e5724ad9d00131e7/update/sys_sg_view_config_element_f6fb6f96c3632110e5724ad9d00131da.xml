@@ -14,6 +14,6 @@
         <sys_updated_by>chan.s</sys_updated_by>
         <sys_updated_on>2023-06-23 04:42:29</sys_updated_on>
         <view_config display_value="Termination approval record card">1030e24ec3232910e5724ad9d00131a5</view_config>
-        <view_template_slot display_value="text_05">a76eea51c39fa510fc27e92bb00131fb</view_template_slot>
+        <view_template_slot display_value="">a76eea51c39fa510fc27e92bb00131fb</view_template_slot>
     </sys_sg_view_config_element>
 </record_update>

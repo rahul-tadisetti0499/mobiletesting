@@ -4,7 +4,6 @@
         <button display_value="Job requisition Approval Reject function">f6df606dc323e510fc27e92bb0013105</button>
         <color_theme>destructive</color_theme>
         <description>Job Requisition Approval Reject Function Instance</description>
-        <disable_offline>false</disable_offline>
         <field_name/>
         <icon/>
         <label>Reject</label>

@@ -4,7 +4,6 @@
         <button display_value="Navigate to Workday Leave of absence function">73257867c3e3e110e5724ad9d0013102</button>
         <color_theme/>
         <description>Leave of absence approval Navigate to Workday function instance</description>
-        <disable_offline>false</disable_offline>
         <field_name/>
         <icon display_value="MS icon-Web-Link-Solid">952ff10673b52010a59b4c5353f6a772</icon>
         <label>View in Workday</label>

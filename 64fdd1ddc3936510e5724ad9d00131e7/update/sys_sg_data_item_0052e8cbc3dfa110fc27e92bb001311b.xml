@@ -5,10 +5,7 @@
         <group_by/>
         <instance_relative_url_qc/>
         <name>Workday Comment data Item</name>
-        <offline_query_condition/>
-        <offline_query_condition_script/>
-        <query_condition table="sn_hr_workday_workday_comment">workday_id={{cm_wk_id}}^EQ<item endquery="false" field="workday_id" goto="false" newquery="false" operator="=" or="false" value="{{cm_wk_id}}"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        <query_condition table="sn_hr_workday_workday_comment">workday_id={{cm_wk_id}}^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </query_condition>
         <query_condition_script><![CDATA[(function getQueryString(input) {
     //Type appropriate comment here, and begin script below

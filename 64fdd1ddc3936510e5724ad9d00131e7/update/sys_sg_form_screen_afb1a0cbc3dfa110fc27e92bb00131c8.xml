@@ -14,7 +14,6 @@
         <item_view/>
         <name>Comment </name>
         <override_context_with_data_item>true</override_context_with_data_item>
-        <parameter_screen/>
         <roles_override/>
         <segments_height>medium</segments_height>
         <segments_min_width>medium</segments_min_width>

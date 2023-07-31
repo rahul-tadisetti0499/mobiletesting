@@ -2,7 +2,6 @@
     <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
         <empty_state/>
         <interleave_order_direction>asc</interleave_order_direction>
-        <max_offline_rows>1000</max_offline_rows>
         <name>Timesheet approval requests screen segment</name>
         <order/>
         <screen display_value="Timesheet approval list screen">0f160ad9c3176510e5724ad9d00131f3</screen>

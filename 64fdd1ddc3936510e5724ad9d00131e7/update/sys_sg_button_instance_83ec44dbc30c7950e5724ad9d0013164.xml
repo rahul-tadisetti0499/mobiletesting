@@ -4,7 +4,6 @@
         <button display_value="Spend authorization complete in workday">ace48460c3947d50e5724ad9d001319c</button>
         <color_theme>primary</color_theme>
         <description>Spend authorization approval complete in workday function instance</description>
-        <disable_offline>false</disable_offline>
         <field_name/>
         <icon/>
         <label>Complete in Workday</label>

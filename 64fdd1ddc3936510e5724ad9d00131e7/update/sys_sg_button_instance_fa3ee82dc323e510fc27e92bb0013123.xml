@@ -4,7 +4,6 @@
         <button display_value="Job requisition approve function">2e3ee82dc323e510fc27e92bb001311e</button>
         <color_theme>positive</color_theme>
         <description>Approve Job Requisition Approval Function Instance</description>
-        <disable_offline>false</disable_offline>
         <field_name/>
         <icon/>
         <label>Approve</label>

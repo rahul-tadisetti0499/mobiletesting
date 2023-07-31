@@ -4,7 +4,6 @@
         <button display_value="Job change approval Reject function">efa8637dc39b2910fc27e92bb001315f</button>
         <color_theme>destructive</color_theme>
         <description>Job Change Request Reject function instance</description>
-        <disable_offline>false</disable_offline>
         <field_name/>
         <icon/>
         <label>Reject</label>

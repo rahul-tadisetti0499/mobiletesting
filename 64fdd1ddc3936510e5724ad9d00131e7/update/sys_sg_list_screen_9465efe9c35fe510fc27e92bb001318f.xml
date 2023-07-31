@@ -10,7 +10,6 @@
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="icon-Bookmark">050b7d40c7231010fc3a2aa9b8c260ff</icon>
         <name>More details</name>
-        <parameter_screen/>
         <roles_override/>
         <sys_class_name>sys_sg_list_screen</sys_class_name>
         <sys_created_by>chan.s</sys_created_by>

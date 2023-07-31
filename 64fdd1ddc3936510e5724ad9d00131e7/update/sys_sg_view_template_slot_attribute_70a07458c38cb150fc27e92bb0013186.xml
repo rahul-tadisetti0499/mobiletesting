@@ -16,7 +16,7 @@
         <sys_updated_on>2023-07-11 06:27:30</sys_updated_on>
         <translated_value></translated_value>
         <value/>
-        <view_template_slot display_value="icon_01">34a07458c38cb150fc27e92bb0013183</view_template_slot>
+        <view_template_slot display_value="">34a07458c38cb150fc27e92bb0013183</view_template_slot>
     </sys_sg_view_template_slot_attribute>
     <sys_translated_text action="delete_multiple" query="documentkey=70a07458c38cb150fc27e92bb0013186"/>
 </record_update>

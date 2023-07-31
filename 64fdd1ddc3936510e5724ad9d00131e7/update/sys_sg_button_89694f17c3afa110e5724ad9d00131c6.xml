@@ -6,8 +6,7 @@
         <auto_redirection>false</auto_redirection>
         <button_table_field_name/>
         <cancel_label/>
-        <condition table="sn_hr_workday_time_off_request_todos_item">commentISNOTEMPTY^EQ<item endquery="false" field="comment" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        <condition table="sn_hr_workday_time_off_request_todos_item">commentISNOTEMPTY^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <condition_script>false</condition_script>
         <condition_type>declarative</condition_type>
@@ -33,10 +32,6 @@
         <mail_subject/>
         <name>Time off comment function</name>
         <offline>false</offline>
-        <offline_condition/>
-        <offline_condition_script/>
-        <offline_condition_type>declarative</offline_condition_type>
-        <offline_table/>
         <offline_template_field/>
         <offline_template_field_table/>
         <phone_number/>

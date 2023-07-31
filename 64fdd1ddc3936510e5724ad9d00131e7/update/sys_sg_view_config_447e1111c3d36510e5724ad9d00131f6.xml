@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
     <sys_sg_view_config action="INSERT_OR_UPDATE">
         <active>true</active>
-        <advanced>false</advanced>
         <description>Time off approval list screen card</description>
         <name>Time off approval card</name>
-        <scratchpad_script/>
         <sys_class_name>sys_sg_view_config</sys_class_name>
         <sys_created_by>vits</sys_created_by>
         <sys_created_on>2023-06-07 05:34:27</sys_created_on>

@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
     <sys_sg_view_config action="INSERT_OR_UPDATE">
         <active>true</active>
-        <advanced>false</advanced>
         <description>Compensation change card</description>
         <name>Compensation change record screen card</name>
-        <scratchpad_script/>
         <sys_class_name>sys_sg_view_config</sys_class_name>
         <sys_created_by>Sakshi</sys_created_by>
         <sys_created_on>2023-06-07 10:22:46</sys_created_on>
@@ -18,7 +16,7 @@
         <sys_updated_by>chan.s</sys_updated_by>
         <sys_updated_on>2023-07-17 13:04:31</sys_updated_on>
         <table>sn_hr_workday_compensation_change_request_todos</table>
-        <template display_value="Workday Approval Card New Template">dde9c9ddc3803550e5724ad9d0013125</template>
+        <template display_value="Workday Approval Card Template">dde9c9ddc3803550e5724ad9d0013125</template>
     </sys_sg_view_config>
     <sys_translated_text action="delete_multiple" query="documentkey=2760aa15c35fa510fc27e92bb00131cf"/>
 </record_update>

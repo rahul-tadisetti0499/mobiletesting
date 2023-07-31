@@ -5,8 +5,6 @@
         <group_by/>
         <instance_relative_url_qc/>
         <name>Job change attachment data item</name>
-        <offline_query_condition/>
-        <offline_query_condition_script/>
         <query_condition table="sys_attachment">table_sys_id={{sysId}}<item endquery="false" field="table_sys_id" goto="false" newquery="false" operator="=" or="false" value="{{sysId}}"/>
         </query_condition>
         <query_condition_script/>

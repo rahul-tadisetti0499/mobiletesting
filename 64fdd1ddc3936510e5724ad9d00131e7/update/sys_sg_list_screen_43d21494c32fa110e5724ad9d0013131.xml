@@ -10,7 +10,6 @@
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="icon-Group">736e1111c3d36510e5724ad9d00131f2</icon>
         <name>Spend authorization approval</name>
-        <parameter_screen/>
         <roles_override/>
         <sys_class_name>sys_sg_list_screen</sys_class_name>
         <sys_created_by>Sakshi</sys_created_by>
